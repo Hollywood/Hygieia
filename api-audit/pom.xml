@@ -13,8 +13,8 @@
     </parent>
 
     <properties>
-        <jackson.version>2.5.0</jackson.version>
-        <guava.version>16.0.1</guava.version>
+        <jackson.version>2.9.8</jackson.version>
+        <guava.version>24.1.1-jre</guava.version>
         <application.version.number>${version}</application.version.number>
     </properties>
 
